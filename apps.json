@@ -1,5 +1,16 @@
 [
   {
+    "id": 1779113658372,
+    "name": "Zápisníček",
+    "desc": "Zápisníček je jednoduchá desktopová aplikace pro Windows určená pro správu úkolů, poznámek a denních povinností. Uživatel umožňuje rychle zapisovat úkoly, organizovat je do přehledného seznamu a po dokončení je označit jako splněné.  Odfajfkované úkoly jsou automaticky přesunuty do sekce dokončených položek, což zajišťuje lepší přehled o průběhu plnění úkolů a efektivnější organizaci práce či osobních aktivit.",
+    "icon": "fa-check",
+    "version": "1.0.0",
+    "downloadUrl": "https://github.com/vufduxor/Aplikace/raw/main/Zapisnicek_v1.0.0_Setup.exe",
+    "storageUrl": "",
+    "downloads": 0,
+    "createdAt": "2026-05-18"
+  },
+  {
     "id": 1779113220949,
     "name": "Free games",
     "desc": "Free Games je desktopová aplikace pro Windows zaměřená na vyhledávání her zdarma a her ve slevě napříč digitálními platformami a online obchody. Aplikace automaticky analyzuje aktuální nabídky obchodů a umožňuje rychlé vyhledání titulů dostupných zdarma, ve zvýhodněné akci nebo za dočasně sníženou cenu.  Program podporuje přímé vyhledávání PC her v oficiálních storech, jako jsou například Steam, Epic Games nebo GOG, a poskytuje uživateli rychlý přístup k aktuálním nabídkám bez nutnosti manuálního procházení jednotlivých obchodů.",
