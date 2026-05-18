@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1779112167229,
+    "name": "TridiX",
+    "desc": "TridiX je desktopová aplikace pro operační systém Windows určená k automatizovanému třídění souborů ve složce Stažené soubory. Program analyzuje přípony souborů a následně je přesouvá do odpovídajících kategorií a adresářů — například dokumenty (.pdf, .docx) do složky Dokumenty, obrázky (.png, .jpg) do Obrázky, videa do Videa apod.  Aplikace slouží ke zrychlení organizace dat, zlepšení přehlednosti uložených souborů a automatizaci správy staženého obsahu.TridiX je desktopová aplikace pro operační systém Windows určená k automatizovanému třídění souborů ve složce Stažené soubory. Program analyzuje přípony souborů a následně je přesouvá do odpovídajících kategorií a adresářů — například dokumenty (.pdf, .docx) do složky Dokumenty, obrázky (.png, .jpg) do Obrázky, videa do Videa apod.  Aplikace slouží ke zrychlení organizace dat, zlepšení přehlednosti uložených souborů a automatizaci správy staženého obsahu.",
+    "icon": "fa-code-fork",
+    "version": "1.0.0",
+    "downloadUrl": "https://github.com/vufduxor/Aplikace/raw/main/Tridix_v1.0.0_Setup.exe",
+    "storageUrl": "",
+    "downloads": 1,
+    "createdAt": "2026-05-18"
+  }
+]
